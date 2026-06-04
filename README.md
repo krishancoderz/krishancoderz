@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%20I'm%20Krishan%20👋&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20|%20Mobile%20Wizard%20|%20Code%20Poet&descAlignY=60&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%20I'm%20Krishan%20%F0%9F%91%8B&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Mobile%20Wizard%20%7C%20Code%20Poet&descAlignY=60&descSize=18&descColor=ffffff"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/krishancoderz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+Future%2C+One+Commit+at+a+Time;💻+Flutter+%7C+React+%7C+Node.js+%7C+Python;📱+Mobile+Dev+|+Web+Dev+|+Backend+|+3D;🔥+krishancoderz+on+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+Future%2C+One+Commit+at+a+Time;Flutter+%7C+React+%7C+Node.js+%7C+Python;Mobile+Dev+%7C+Web+Dev+%7C+Backend+%7C+3D;krishancoderz+on+GitHub" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,13 +33,13 @@
 ```yaml
 name: Krishan
 username: krishancoderz
-location: India 🇮🇳
-current_focus: Building Bawaal Stuff 🔥
+location: India
+current_focus: Building Bawaal Stuff
 passion: Clean Code + Great UI/UX
 hobbies:
-  - Coding all night ☕
-  - Breaking things then fixing them 🛠️
-  - Making apps people love 💙
+  - Coding all night
+  - Breaking things then fixing them
+  - Making apps people love
 philosophy: "Ship fast, iterate faster"
 ```
 
@@ -107,7 +107,7 @@ philosophy: "Ship fast, iterate faster"
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishancoderz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishancoderz&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+<img width="49%" src="https://streak-stats.demolab.com?user=krishancoderz&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishancoderz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" />
 
@@ -116,22 +116,22 @@ philosophy: "Ship fast, iterate faster"
 ---
 
 <!-- Activity Graph -->
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishancoderz&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=00d4ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishancoderz&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-<!-- GitHub Trophy -->
-## 🏆 GitHub Trophies
+<!-- GitHub Trophy — replaced with skillicons which is more reliable -->
+## 🏆 Skills at a Glance
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishancoderz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,react,js,ts,nodejs,python,threejs,firebase,mongodb,mysql,postgres,git,docker,figma,vscode,linux&theme=dark&perline=9" />
 
 </div>
 
@@ -143,13 +143,13 @@ philosophy: "Ship fast, iterate faster"
 ```javascript
 const krishan = {
   currentlyBuilding: [
-    "🔥 A Flutter app that'll blow your mind",
-    "🌐 3D interactive web experience with Three.js",
-    "🤖 AI-powered backend with Python + FastAPI"
+    "A Flutter app that'll blow your mind",
+    "3D interactive web experience with Three.js",
+    "AI-powered backend with Python + FastAPI"
   ],
   learning: ["WebGL", "Advanced Animations", "System Design"],
-  lookingToCollabOn: "Open source projects & cool startup ideas 💡",
-  funFact: "I debug with console.log and I'm proud of it 😎"
+  lookingToCollabOn: "Open source projects & cool startup ideas",
+  funFact: "I debug with console.log and I'm proud of it"
 };
 ```
 
@@ -174,7 +174,6 @@ const krishan = {
 
 <br/><br/>
 
-<!-- Snake animation -->
 > 💬 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
 
 <br/>
