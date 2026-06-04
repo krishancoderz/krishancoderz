@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Network&style=for-the-badge&color=00ffcc&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/github/followers/krishancoderz?label=Network&style=for-the-badge&color=00ffcc&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Main_Focus-AI_Automation-magenta?style=for-the-badge" />
 </p>
 
