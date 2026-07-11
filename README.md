@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/github/followers/krishancoderz?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://instagram.com/wtf.coder">
-  <img src="https://img.shields.io/badge/@wtf.coder-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://instagram.com/just.krishan_">
+  <img src="https://img.shields.io/badge/@just.krishan_-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -165,7 +165,7 @@ const krishan = {
 </a>
 &nbsp;
 <a href="https://instagram.com/just.krishan_">
-  <img src="https://img.shields.io/badge/Instagram-wtf.coder-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-just.krishan_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:k05170492@gmail.com">
