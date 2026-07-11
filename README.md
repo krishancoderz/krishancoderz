@@ -164,7 +164,7 @@ const krishan = {
   <img src="https://img.shields.io/badge/GitHub-krishancoderz-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://instagram.com/wtf.coder">
+<a href="https://instagram.com/just.krishan_">
   <img src="https://img.shields.io/badge/Instagram-wtf.coder-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
